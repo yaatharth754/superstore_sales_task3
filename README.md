@@ -69,17 +69,7 @@ The dashboard includes the following visuals:
 
 These filters allow users to dynamically explore the data.
 
----
 
-## 📷 Dashboard Preview
-
-(Add your screenshot here)
-
-```
-![Dashboard Preview](dashboard.png)
-```
-
----
 
 ## 🎯 Key Insights
 
